@@ -1,5 +1,5 @@
 # Ex. No.  - SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE
-### DATE: 
+### DATE: 16 december 2024
 
 ## AIM:
 ### To simulate the construction of cartesian 3D printer and to get in-depth knowledge of mechatronics of cartesian 3D printers.
@@ -47,9 +47,13 @@
 ###   2.	Move the y-axis slider or enter the value (within the given range) in the given text box and press/select ENTER. Now observe the movement of the y-axis assembly.
 ###   3.	Move the z-axis slider or enter the value (within the given range) in the given text box and press/select ENTER. Now observe the movement of the z-axis assembly.
 
-## OUTPUT
+## OUTPUT :
+![1](https://github.com/user-attachments/assets/b4859da8-1da0-4989-abeb-9c0b0d5fc166)
+![2](https://github.com/user-attachments/assets/95f4ef67-381f-4c44-a9ad-bbfe47a5e5b2)
+![3](https://github.com/user-attachments/assets/b3aa7140-556a-41fb-b195-ee95339fab7a)
+![4](https://github.com/user-attachments/assets/96a5327c-ad10-4e95-bdc7-5e019e87a52b)
 
-## Output:
+
 
 ### Name: S HARIHARAN
 ### Register Number: 24005920
